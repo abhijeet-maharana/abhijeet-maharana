@@ -2,8 +2,8 @@
 <h3 align="center">Senior Frontend/Full-Stack Engineer | React · TypeScript · Node.js</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhijeet-maharana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeet-maharana" height="30" width="40" /></a>
-  <a href="mailto:abhijeetmaharana10@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/abhijeet-maharana" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abhijeetmaharana10@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <br/>
@@ -23,14 +23,4 @@ I am a full-stack engineer with 5 years of experience building production web ap
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,express,postgres,prisma,mongodb,jest,cypress,tailwind,git,aws&perline=7" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/abhijeet-maharana">
-    <img src="https://github-readme-stats.vercel.app/api?username=abhijeet-maharana&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Abhijeet's GitHub Stats" />
-  </a>
 </p>
